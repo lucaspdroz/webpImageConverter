@@ -13,3 +13,7 @@ or
 `pip3 install pillow`
 
 [Pillow Doc](https://pypi.org/project/Pillow/)
+
+
+# Run
+`python3 pillow.py`
